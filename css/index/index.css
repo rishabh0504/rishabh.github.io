@@ -16,3 +16,7 @@ header{
 .container{
     text-align: center;
 }
+
+img{
+    image-orientation: 30deg;
+}
