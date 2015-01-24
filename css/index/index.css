@@ -1,0 +1,18 @@
+
+body{
+background-color: #222222;
+
+}
+.jumbotron{
+    background-color: currentcolor;
+    box-shadow: 2px 3px 4px white;
+}
+h2,h3,h4,h5,h6{
+    color: white;
+}
+header{
+    box-shadow: 1px 2px 3px white;
+}
+.container{
+    text-align: center;
+}
